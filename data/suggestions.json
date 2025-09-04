@@ -1,0 +1,12 @@
+[
+{ "id": 1, "text": "Stretch your arms and legs for 2 minutes.", "mood": "stressed" },
+{ "id": 2, "text": "Drink a glass of water.", "mood": "general" },
+{ "id": 3, "text": "20-20-20 rule: look 20 feet away for 20 seconds.", "mood": "eyes" },
+{ "id": 4, "text": "Do 10 jumping jacks.", "mood": "energized" },
+{ "id": 5, "text": "Take 5 deep breaths: inhale 4s, hold 4s, exhale 6s.", "mood": "stressed" },
+{ "id": 6, "text": "Listen to one favorite song.", "mood": "bored" },
+{ "id": 7, "text": "Walk around for 3 minutes.", "mood": "sleepy" },
+{ "id": 8, "text": "Write down 1 thing you’re grateful for.", "mood": "stressed" },
+{ "id": 9, "text": "Do a quick neck roll and shoulder roll.", "mood": "eyes" },
+{ "id": 10, "text": "Do a 1-minute plank.", "mood": "energized" }
+]
